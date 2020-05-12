@@ -3,7 +3,7 @@ A Python module for creating GUI applications
 
 Can be found on the [freeCodeCamp YouTube channel](https://www.youtube.com/watch?v=YXPyB4XeYLA).
 
-Course contents:
+## Course contents:
 - Intro to Tkinter
 - Positioning With Tkinter's Grid System
 - Creating Buttons
